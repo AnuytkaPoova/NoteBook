@@ -14,7 +14,7 @@ import android.widget.EditText;
 
 public class Fragment_2 extends Fragment {
 
-    private  final  String LOG_TAG = "myLogs";
+    //private  final  String LOG_TAG = "myLogs";
     private EditText mEditText;
     Button button;
 
